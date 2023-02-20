@@ -1,6 +1,6 @@
 # BlockChainVoting
 
-A blockchain-based E-voting system, (more of a framework) Created by SUVARNA AVHAD, RUSHIKESH GANJVE, NIK NERKAR and BHAKTI PARALE
+// A blockchain-based E-voting system, (more of a framework) Created by SUVARNA AVHAD, RUSHIKESH GANJVE, NIK NERKAR and BHAKTI PARALE
 ## Build Setup
 
 ```bash
